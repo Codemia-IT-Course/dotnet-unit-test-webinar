@@ -1,5 +1,9 @@
 # Header
 
+[![Build and Deploy Coverage Report](https://github.com/Codemia-IT-Course/dotnet-unit-test-webinar/actions/workflows/coverage.yml/badge.svg)](https://github.com/Codemia-IT-Course/dotnet-unit-test-webinar/actions/workflows/coverage.yml)
+
+[Coverage Report](https://codemia-it-course.github.io/dotnet-unit-test-webinar)
+
 Run tests with code coverage:
 
 ```bash
